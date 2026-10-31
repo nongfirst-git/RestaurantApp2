@@ -11,7 +11,7 @@ namespace RestaurantApp2
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Puramas Saksri");
+            Console.WriteLine("Puramas Saksri 10");
 
 
         }
